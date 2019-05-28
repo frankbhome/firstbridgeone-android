@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "api-5262167145696158344-508552",
+  "private_key_id": "dd76a7a7a085b15e74143c667f6b645a261fa7d1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjAJwB2tUJKtA/\ndKgoIs7sDktkjzDkfReziM9BMfivYAd4WE9ixqTsdCTzWy2fK45oXJ9zUxiasEN9\nlQLg7JvfC/ACbVuifRtgVI7tF3lX5H/kEPLIM/mIvMMDUnvPk0cYA5qi8WeL4IAT\ny6txOPQfd2CltdKdWFa9r1ZTUvGVJzIb2gR3NkpAMWVdtZIRCDW/6q0flXXVuP4b\n18FhzDehXcLIG1v61SNvfvzhIiNYEMtWc/59HIQ/0GLBhjH+gMhB+xckbITeCtli\nuzEkNjYoNI4Imc6vSis2qBZBNDCAnJGLN1xkhQoJRRYPBLu+RijRlMVLtiViL1Tn\nyg3AkX1VAgMBAAECggEASwiEx/XMCyRCKHOy1IbxaYhK/EdN4mATAPoBLamrKE+0\nIJnGMVnvoUj1mXBnV9Xc//1jCNs/gDWTW8O0R4WjWtFL8lIU1H9ykq1Z/ZnIqcTt\nejazC6WhQGhj/KuDgtHw8AT4sfkeCS2Wx4YBrWTiO3nga2d/RB7eDwMfYcvUmStt\nucbs1MnuN0ZbaOsjKn/KUPt//x/vXKJ2yHOvhyWxzVd/O9KRFp2ysFFbsLVmTEqD\n65EdB9uo0MGdpXhBvUzIam2+hMh21xqJqs6dJaMnmcwkxFJllDzkeMV8uq2VULoI\nhuDK/tvXJjLqPs/AW102DkS57nxwLW8ceA/LPPjUIQKBgQDOYzHR3GaWXUTnPaqF\npfBbdbF8qcnvBJUuFAWyqkc97M7dAjFoXE6/lTPAWs6TH5y0IUVUOvGf0OVfSnEU\nSStw/L19Q9+HHAuwW+qyh4D1ZZhBJaSKCi7+pZQV4Lk/bSNOwqsZaeyy/UKnXbTS\npi+PkZ6BC++q8BrbyDysrsl9dwKBgQDKL44BWwIvSzn/DDuNfZnh4vyO75WAdvib\nmPDgzTLkf7tBqcsoSgQ9lOEp6AF/PAtoapD1rBCL8I+EHitA9lAzbt7kMQFABMkM\nVUnxpMixI2KKhgdPUJEE33htQ/LC7XZ3hgIHYKNsJG5eP9tbQLR9lywqslBMmzmo\nppw348mekwKBgQCbsflDeCFsDbCNQdgCOsy4MnFSukO8LJjdyf0Ca7KS5LKpx52+\nPOSrYsNHuTldg9uTiAXlJRJinhRrbp0f0JMVCZVpimp2YpHu2WiUheSjO6FAhEU8\nXbJWKFMurfkSACNCp1isM1x9KtG9sNNYlkYK6K/KalbDfZ7FbqlXHASkwQKBgGBI\nHx7EIRk2gKrVP3LUsjggqNbEfvRLM36daXAUJ70qmpjda7KG9NgCkusq4bOee2xA\n+0ESrFqHt0BaQYzQ/0ZO8PPH5ml/HeKypuDc8Plx+VYwF0ENA9JHPQkDh5KOFJE8\njrDGs2wnOSvGywX8nTcFi3HVsmmYre+DT/dJkVTjAoGABtCxDzVN2luG9FdU0OAF\ngGKpVvu/u0Zwacp5KvuIfblJDcYgxbDKUDThYrSoEXnWzEzuBUmG07C5WvVFSD4Y\nJZxiOVrOTvptaaJWLNcgAGBCgKTnIjMhH0GrffZf7QiUNzf3bMYYYNguCJNbZ+M6\n3jchWEAfh30h/Qgwtw6jGTc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firstbridgeone@api-5262167145696158344-508552.iam.gserviceaccount.com",
+  "client_id": "110198387611240742952",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firstbridgeone%40api-5262167145696158344-508552.iam.gserviceaccount.com"
+}
